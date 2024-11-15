@@ -3,7 +3,7 @@
 
 # AI Trading Platform
 
-###### This is an **AI Trading Platform** project and is a team work for the graduation project in the bachelor of engineering aimed at developing an advanced system that utilizes machine learning and sentiment analysis to improve trading strategies for the stock market.
+###### This is an **AI Trading Platform** project and is a work for a team of 3 for the graduation project in the bachelor of engineering aimed at developing an advanced system that utilizes machine learning and sentiment analysis to improve trading strategies for the stock market.
 
 ## Overview
 
