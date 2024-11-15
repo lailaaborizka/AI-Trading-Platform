@@ -38,7 +38,7 @@ In the current stock market, being able to predict stock movements and understan
 - **Purpose**: To gauge market sentiment by analyzing public opinion from social media platforms like Twitter and StockTwits.
 - **Methodology**:
   - **Data Collection**: Tweets and financial data are gathered to assess the public sentiment towards specific stocks.
-  - **Sentiment Scoring**: VADER (Valence Aware Dictionary and sEntiment Reasoner) is used to analyze the sentiment of each tweet, categorizing sentiment as positive, negative, or neutral.
+  - **Sentiment Scoring**: Awide range of libraries and models are used to analyze the sentiment of each tweet, categorizing sentiment as positive, negative, or neutral.
   - **Integration with Trading Models**: The sentiment scores are integrated into trading models to enhance trading strategies, reacting to shifts in public sentiment.
 
 ### 2. **Technical Indicators**
